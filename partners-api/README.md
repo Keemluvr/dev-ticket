@@ -62,10 +62,10 @@ $ npm run test:cov
 
 ### database
 
-mysql prompet - mysql -uroot -proot
-show database - show databases;
-enter database - use [database-name];
-show tables - show tables;
+mysql prompet - mysql -uroot -proot  
+show database - show databases;  
+enter database - use [database-name];  
+show tables - show tables;  
 describe table - describe [table-name]
 
 ### prisma
